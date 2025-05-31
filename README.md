@@ -22,7 +22,7 @@ Welcome to my Mini Projects repository, This repository contains several simple 
 How to Run the Projects: 
 1. Clone or download this repository to your local machine.
 2. Navigate into the project folder of your choice, e.g., `password_generator`, `hangman`, etc.
-3. You can directly run this code by opening the file or folder in your pycharm, VScode or IDLE or you can also Run the Python script using the command:
+3. You can directly run this code by opening the file or folder in your pycharm, VScode or IDLE or you can also Run the Python script using the command in your terminal: 
    ```bash
    python script_name.py
-   In your terminal. 
+
